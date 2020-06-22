@@ -9,7 +9,7 @@
 ## Install
 
 ```bash
-npm install react-infinite-image-link-carousel --save
+npm install react-infinite-image-link-carousel --save 
 ```
 
 ## Demo
