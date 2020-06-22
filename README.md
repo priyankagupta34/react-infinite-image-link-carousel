@@ -1,4 +1,4 @@
-# star-based-rating
+# react-infinite-image-link-carousel
 
 [![npm version][npm-main]][npm-main]
 [![license][license]][license]
@@ -20,10 +20,6 @@ npm install react-infinite-image-link-carousel --save
 
 <small><b>I have kept minimal configurations. 
 Less configurations Less confusions.</b></small>
-
-#
-<small><b>How simple is this !! </b></small> :blush:
-#
 
 ## Example
 
