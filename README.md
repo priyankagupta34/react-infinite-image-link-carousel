@@ -14,7 +14,7 @@ npm install react-infinite-image-link-carousel --save
 
 ## Demo
 
-<a href="https://imgflip.com/gif/45zna3"><img src="https://i.imgflip.com/45zna3.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/45zovd"><img src="https://i.imgflip.com/45zovd.gif" title="made at imgflip.com"/></a>
 
 
 ## Props
@@ -23,6 +23,10 @@ npm install react-infinite-image-link-carousel --save
 Less configurations Less confusions.</b></small>
 
 <ul>
+    <b> Minimum 5 images are required. From which a combination of 3 will be shown at a time. If image list is less than 5, than this package will not work the way it is designed for. </b>
+    <br />
+    <br />
+
     <li>imageList: It should be an array of javascript objects.
      Each object with image and href properties. 'image' object should contain location, 
      href should contain link to image. Leave black or '#' if you don't want any links </li>
