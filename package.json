@@ -1,6 +1,6 @@
 {
   "name": "react-infinite-image-link-carousel",
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "Its an infinite image slider with 3 images showing at a time for wonderful UI experience. Middle image is linked with href to go anywhere you wish for ",
   "main": "./build/index.js",
   "scripts": {
