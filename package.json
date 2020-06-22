@@ -1,0 +1,40 @@
+{
+  "name": "react-infinite-image-link-carousel",
+  "version": "1.0.0",
+  "description": "Its an infinite image slider with 3 images showing at a time for wonderful UI experience. Middle image is linked with href to go anywhere you wish for ",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/priyankagupta34/react-infinite-image-link-carousel.git"
+  },
+  "keywords": [
+    "react",
+    "infinite",
+    "image",
+    "slider",
+    "with",
+    "link"
+  ],
+  "author": "Priyanka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/priyankagupta34/react-infinite-image-link-carousel/issues"
+  },
+  "homepage": "https://github.com/priyankagupta34/react-infinite-image-link-carousel#readme",
+  "devDependencies": {
+    "@babel/core": "^7.7.5",
+    "@babel/preset-env": "^7.7.6",
+    "@babel/preset-react": "^7.7.4",
+    "babel-loader": "^8.0.6",
+    "css-loader": "^3.3.0",
+    "style-loader": "^1.0.1",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "react": "^16.12.0"
+  }
+}
