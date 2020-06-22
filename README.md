@@ -22,12 +22,10 @@ npm install react-infinite-image-link-carousel --save
 <small><b>I have kept minimal configurations. 
 Less configurations Less confusions.</b></small>
 
-<ul>
-    <b> Minimum 5 images are required. From which a combination of 3 will be shown at a time. If image list is less than 5, than this package will not work the way it is designed for. </b>
-    <br />
-    <br />
+<b> Minimum 5 images are required. From which a combination of 3 will be shown at a time. If image list is less than 5, than this package will not work the way it is designed for. </b>
 
-    <li>imageList: It should be an array of javascript objects.
+<ul>
+     <li>imageList: It should be an array of javascript objects.
      Each object with image and href properties. 'image' object should contain location, 
      href should contain link to image. Leave black or '#' if you don't want any links </li>
     <li>autoInfiniteSlider: Provide true if you want aut0 slide to happen else false is enough</li>
