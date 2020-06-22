@@ -13,7 +13,8 @@ npm install react-infinite-image-link-carousel --save
 ## Demo
 
 <!-- <a href="https://imgflip.com/gif/45z9ft"><img src="https://imgflip.com/gif/45z9ft" title="made at imgflip.com"/></a> -->
-<a href="hji.gif"><img src="hji.gif" title="made at ezgif.com"/></a>
+<!-- <a href="hji.gif"><img src="hji.gif" title="made at ezgif.com"/></a> -->
+<img src="https://github.com/priyankagupta34/react-infinite-image-link-carousel/blob/HEAD/hji.gif" alt="demo-image"></a>
 
 
 
@@ -21,6 +22,16 @@ npm install react-infinite-image-link-carousel --save
 
 <small><b>I have kept minimal configurations. 
 Less configurations Less confusions.</b></small>
+
+<ul>
+    <li>imageList: It should be an array of javascript objects.
+     Each object with image and href properties. 'image' object should contain location, 
+     href should contain link to image. Leave black or '#' if you don't want any links </li>
+    <li>autoInfiniteSlider: Provide true if you want aut0 slide to happen else false is enough</li>
+    <li>infiniteSlideTimeScaleInMs: Provide a timer after which image should move automatically.
+    This is linked with 'autoInfiniteSlider'</li>
+    <li>heightOfImage: This is height of image or corousel</li>
+</ul>
 
 ## Example
 
