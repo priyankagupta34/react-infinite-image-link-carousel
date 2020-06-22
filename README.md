@@ -13,7 +13,7 @@ npm install react-infinite-image-link-carousel --save
 ## Demo
 
 <!-- <a href="https://imgflip.com/gif/45z9ft"><img src="https://imgflip.com/gif/45z9ft" title="made at imgflip.com"/></a> -->
-<img src="hij.gif" title="made at ezgif.com"/>
+<a href="hji.gif"><img src="hij.gif" title="made at ezgif.com"/></a>
 
 
 
